@@ -63,5 +63,8 @@ cd sales-atomic-dashboard
 npm install
 npm run dev
 
+FOR SCREENSHOT:
+just refer in the file
+
 
 
