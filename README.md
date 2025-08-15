@@ -85,4 +85,4 @@ attachments/assets/be01e10e-6866-4989
 ![Screenshot](https://github.com/user
 -attachments/assets/fcf0599c-e5d7-42ef
 -8c30-4d1e7527909d)
-<img width="338" height="1076" alt="Image" src="https://github.com/user-attachments/assets/1accb9e0-1ca7-41a1-98f9-25453625ed2e" />
+![screenshot](https://github.com/user-attachments/assets/1accb9e0-1ca7-41a1-98f9-25453625ed2e)
