@@ -1,36 +1,73 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 📊 sales-atomic-dashboard
 
-## Getting Started
+A modern, interactive dashboard built with **Next.js** following **atomic design principles**.  
+It includes animations, charts, counters, and smooth UI interactions for a premium experience.
 
-First, run the development server:
+---
 
+## ✨ Features
+
+- 📈 **Interactive Charts** – Visualize data using Chart.js
+- 🎯 **Scroll-based Animations** – Trigger effects with React Intersection Observer
+- 💫 **Smooth Transitions** – Powered by Framer Motion
+- 🔢 **Animated Counters** – Number animations with CountUp.js
+- 🎨 **Beautiful Icons** – Vector icons from React Icons
+- 📱 **Responsive Design** – Fully responsive with Tailwind CSS
+- ⚡ **Optimized Performance** – Built with Next.js for speed & SEO
+
+---
+
+## 🛠 Tech Stack
+
+- **Next.js** – React framework with SSR & static site generation
+- **Tailwind CSS** – Utility-first styling
+- **React Icons** – Icon set
+- **Framer Motion** – Animation library
+- **Chart.js** – Chart visualization
+- **CountUp.js** – Animated number counters
+- **React Intersection Observer** – Scroll-triggered animations
+
+---
+
+## 📦 Installation
+set up the nextjs with tailwindcss and src
 ```bash
+# 1️⃣ Clone the repository
+git clone https://github.com/bruntha24/my-nextjs-app
+
+# 2️⃣ Navigate into the project folder
+cd sales-atomic-dashboard
+
+# 3️⃣ Install main dependencies
+npm install
+
+# 4️⃣ Install React Icons
+npm install react-icons
+
+# 5️⃣ Install Framer Motion (animations)
+npm install framer-motion
+
+# 6️⃣ Install Chart.js + React wrapper
+npm install chart.js react-chartjs-2
+
+# 7️⃣ Install CountUp.js React wrapper
+npm install react-countup
+for counntup error
+npm install --save-dev @types/react-countup
+
+# 8️⃣ Install React Intersection Observer
+npm install react-intersection-observer
+
+# 9 To run
+cd sales-atomic-dashboard
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+<<img width="338" height="1076" alt="Screenshot 2025-08-15 063134" src="https://github.com/user-attachments/assets/fa2d073a-119f-44fb-85fb-9743ed557606" />
+img width="1919" height="1079" alt="Screenshot 2025-08-15 063222" src="https://github.com/user-attachments/assets/381b85ba-94b6-4715-b095-1f7d21dcbbfc" />
+<img width="365" height="613" alt="Screenshot 2025-08-15 063147" src="https://github.com/user-attachments/assets/be01e10e-6866-4989-b05b-f630e20f4f6f" />
+<img width="1317" height="442" alt="Screenshot 2025-08-15 063302" src="https://github.com/user-attachments/assets/45d2723e-4be7-4c2c-980d-b80a3bdf804c" />
+<img width="1582" height="793<img width="524" height="878" alt="Screenshot 2025-08-15 063510" src="https://github.com/user-attachments/assets/4f006e99-1012-4237-aca5-6943e378ae4c" />
+" alt="Screenshot 2025-08-15 063414" src="https://github.com/user-attachments/assets/bc46569b-ec9b-43b8-a34c-8967dc49a250" />
+<img width="476" height="874" alt="Screenshot 2025-08-15 063526" src="https://github.com/user-attachments/assets/03a7086d-838d-433d-9846-828a97c0e19c" />
+<img width="526" height="902" alt="Screenshot 2025-08-15 063538" src="https://github.com/user-attachments/assets/fcf0599c-e5d7-42ef-8c30-4d1e7527909d" />
