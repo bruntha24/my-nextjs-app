@@ -1,0 +1,80 @@
+[
+  {
+    "year": 2024,
+    "sales": 8250,
+    "views": 20350,
+    "downloads": 7250,
+    "engagement": 0.87,
+    "comments": 142,
+    "topContributors": [
+      { "name": "Sophia Lee", "role": "Data Scientist" },
+      { "name": "Rahul Mehta", "role": "ML Engineer" },
+      { "name": "Maria Garcia", "role": "Statistician" }
+    ],
+    "relatedNotebooks": [
+      {
+        "title": "Advanced Kaggle EDA 2024",
+        "description": "Comprehensive exploratory analysis with visualizations",
+        "link": "#"
+      },
+      {
+        "title": "LightGBM Model Optimization",
+        "description": "Hyperparameter tuning for top leaderboard scores",
+        "link": "#"
+      }
+    ],
+    "monthly": [820, 720, 900, 880, 760, 810, 870, 890, 930, 940, 980, 1040]
+  },
+  {
+    "year": 2023,
+    "sales": 6930,
+    "views": 17820,
+    "downloads": 6400,
+    "engagement": 0.82,
+    "comments": 128,
+    "topContributors": [
+      { "name": "James Wong", "role": "Data Analyst" },
+      { "name": "Priya Sharma", "role": "ML Researcher" },
+      { "name": "Daniel Kim", "role": "Software Engineer" }
+    ],
+    "relatedNotebooks": [
+      {
+        "title": "Kaggle Survey Analysis 2023",
+        "description": "Yearly trends in data science tools and salaries",
+        "link": "#"
+      },
+      {
+        "title": "Ensemble Models 2023",
+        "description": "Stacking and blending models for better performance",
+        "link": "#"
+      }
+    ],
+    "monthly": [680, 640, 720, 700, 650, 670, 710, 750, 780, 800, 820, 830]
+  },
+  {
+    "year": 2022,
+    "sales": 6120,
+    "views": 15080,
+    "downloads": 5800,
+    "engagement": 2000,
+    "comments": 115,
+    "topContributors": [
+      { "name": "Emma Johnson", "role": "Data Engineer" },
+      { "name": "Hassan Ali", "role": "ML Specialist" },
+      { "name": "Chloe Brown", "role": "Data Visualization Expert" }
+    ],
+    "relatedNotebooks": [
+      {
+        "title": "Survey Insights 2022",
+        "description": "Key findings from Kaggle's 2022 data science survey",
+        "link": "#"
+      },
+      {
+        "title": "Neural Networks Basics",
+        "description": "Beginner-friendly guide to deep learning",
+        "link": "#"
+      }
+    ],
+    "monthly": [540, 500, 560, 580, 590, 610, 630, 650, 670, 690, 710, 730]
+  }
+]
