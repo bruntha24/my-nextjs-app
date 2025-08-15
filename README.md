@@ -63,9 +63,7 @@ cd sales-atomic-dashboard
 npm install
 npm run dev
 __HERE IS THE SCREENSHOT:
-![Screenshot](https://github.com/user-
-attachments/assets/fa2d073a-119f-44fb
--85fb-9743ed557606) 
+![Screenshot](https://raw.githubusercontent.com/bruntha24/my-nextjs-app/9ec7f23830608ea54129a56c49f17d2f2337c51f/Screenshot%202025-08-15%20063134.png) 
 ![Screenshot](https://github.com/user
 -attachments/assets/381b85ba-94b6-4715
 -b095-1f7d21dcbbfc)
