@@ -32,7 +32,7 @@ export default function Page() {
   const [selectedYear, setSelectedYear] = useState<number | "All">("All");
 
   useEffect(() => {
-    import("@/data/SalesByYear.json")
+    import("@/data/salesByYear.json")
       .then((module) => setSalesData(module.default))
       .catch((err) => console.error("Error loading sales data:", err));
   }, []);
