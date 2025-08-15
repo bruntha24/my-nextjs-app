@@ -64,7 +64,8 @@ npm install
 npm run dev
 ## Screenshots
 
-![Screenshot 1](https://raw.githubusercontent.com/bruntha24/my-nextjs-app/9ec7f23830608ea54129a56c49f17d2f2337c51f/Screenshot%202025-08-15%20063134.png)
+![Screenshot 1](https://raw.githubusercontent.com/bruntha24/my-nextjs-app/main/Screenshot%202025-08-15%20063134.png
+)
 
 ![Screenshot 2](https://github.com/user-attachments/assets/381b85ba-94b6-4715-b095-1f7d21dcbbfc)
 
